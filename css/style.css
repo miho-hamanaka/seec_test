@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+*{
+	margin:0;
+	padding:0;
+	font-size:12px;
+}
+table{
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+td,th{
+	border:1px solid silver;
+}
+th{
+	background-color:#eee;text-align:left;
+}
+
+p{
+	margin-bottom:20px;
+}
+#layout{
+	padding:10px;
+}
+
+.q10_style {
+  display: flex;
+}
